@@ -22,6 +22,14 @@ PRODUCT_PACKAGES += \
 
 # Overlays
 PRODUCT_PACKAGES += \
+<<<<<<< HEAD
+=======
+    ApertureResTarget \
+    EvolutionFrameworksResTarget \
+    EvolutionSettingsResTarget \
+    EvolutionSystemUIResTarget \
+    OPlusExtrasResTarget \
+>>>>>>> 5a71f65 (instantnoodlep: Configure OPlusExtras device specific features)
     OPlusFrameworksResTarget \
     OPlusSettingsProviderResTarget \
     OPlusSystemUIResTarget
